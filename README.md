@@ -1,4 +1,4 @@
-In this project, I loaded the Indoor Object Detection dataset (https://zenodo.org/record/2654485#.YaYShVPMJhE) and train a custom YOLO model to recognize the objects in our dataset. To do so I will take the following steps::
+In this project, I loaded the Indoor Object Detection dataset (https://zenodo.org/record/2654485#.YaYShVPMJhE) and trained a custom YOLO model to recognize the objects in our dataset. To do so I took the following steps::
 1. *Setup Code*
 2. *Data Preprocessing*
 
